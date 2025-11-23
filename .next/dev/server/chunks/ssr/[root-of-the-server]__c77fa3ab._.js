@@ -73,8 +73,8 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$Downloads$2f$nano$2d$main$2f
 ;
 ;
 const metadata = {
-    title: "Nano Banana Pro - Free AI Image Generator & Editor",
-    description: "Nano Banana Pro is your go-to AI image generation tool. Create stunning images from text, edit existing images with AI, and explore multiple aspect ratios. Powered by Google Gemini 2.5 Flash Image."
+    title: "TaTTTy - Free AI Image Generator & Editor",
+    description: "TaTTTy is your go-to AI image generation tool. Create stunning images from text, edit existing images with AI, and explore multiple aspect ratios. Powered by Google Gemini 2.5 Flash Image."
 };
 function Home() {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$3_$40$opentelemetry$2b$_3a23a8f646cf08a50a02cbb7ec41fbf4$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("main", {

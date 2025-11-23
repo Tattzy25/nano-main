@@ -615,10 +615,10 @@ export function ImageCombiner() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "WebApplication",
-            name: "Nano Banana Pro",
-            alternateName: "NB Pro",
+            name: "TaTTTy",
+            alternateName: "TaTTTy",
             description:
-              "Nano Banana Pro is a powerful AI image generation and editing tool powered by Google Gemini 2.5 Flash Image. Create, edit, and transform images with natural language prompts.",
+              "TaTTTy is a powerful AI image generation and editing tool powered by Google Gemini 2.5 Flash Image. Create, edit, and transform images with natural language prompts.",
             url: "https://v0nanobananapro.vercel.app",
             applicationCategory: "MultimediaApplication",
             operatingSystem: "Web Browser",
@@ -633,7 +633,7 @@ export function ImageCombiner() {
               url: "https://v0.app",
             },
             keywords:
-              "nano banana pro, nb pro, AI image generation, AI image editor, free AI image generator, text to image, Gemini image generation",
+              "tattty, AI image generation, AI image editor, free AI image generator, text to image, Gemini image generation",
           }),
         }}
       />
@@ -677,9 +677,9 @@ export function ImageCombiner() {
                     onLoad={() => setLogoLoaded(true)}
                   />
                   <h1 className="text-lg md:text-2xl font-bold text-white select-none leading-none">
-                    <div className="md:hidden">Nano</div>
-                    <div className="md:hidden mt-0.5">Banana Pro</div>
-                    <div className="hidden md:block">Nano Banana Pro</div>
+                    <div className="md:hidden">TaTTTy</div>
+                    <div className="md:hidden mt-0.5"></div>
+                    <div className="hidden md:block">TaTTTy</div>
                   </h1>
                   <p className="text-[9px] md:text-[10px] text-gray-400 select-none tracking-wide mt-0.5 md:mt-1">
                     Playground by{" "}

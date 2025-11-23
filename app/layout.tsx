@@ -17,13 +17,12 @@ const jetbrainsMono = JetBrains_Mono({
 })
 
 export const metadata: Metadata = {
-  title: "Nano Banana Pro Playground - Powered by Vercel AI Gateway",
+  title: "TaTTTy Playground - Powered by Vercel AI Gateway",
   description:
-    "Nano Banana Pro: Google's newest AI image generation model. Create and edit stunning images with advanced AI capabilities through Vercel AI Gateway.",
+    "TaTTTy: Google's newest AI image generation model. Create and edit stunning images with advanced AI capabilities through Vercel AI Gateway.",
   keywords: [
-    "nano banana pro",
-    "nano banana",
-    "nb pro",
+    "tattty",
+    "tattty app",
     "AI image generation",
     "AI image editor",
     "Google AI",
@@ -31,7 +30,7 @@ export const metadata: Metadata = {
     "AI art generator",
     "image editing AI",
     "Google image generation",
-    "v0 nano banana",
+    "v0 tattty",
     "Vercel AI Gateway",
   ],
   authors: [{ name: "v0" }],
@@ -46,24 +45,24 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_US",
     url: "https://v0nanobananapro.vercel.app",
-    title: "Nano Banana Pro Playground - Powered by Vercel AI Gateway",
+    title: "TaTTTy Playground - Powered by Vercel AI Gateway",
     description:
-      "Nano Banana Pro: Google's newest AI image generation model. Create and edit stunning images with advanced AI.",
-    siteName: "Nano Banana Pro",
+      "TaTTTy: Google's newest AI image generation model. Create and edit stunning images with advanced AI.",
+    siteName: "TaTTTy",
     images: [
       {
         url: "/og-image.jpg",
         width: 1200,
         height: 630,
-        alt: "Nano Banana Pro Playground - AI Image Generation",
+        alt: "TaTTTy Playground - AI Image Generation",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Nano Banana Pro Playground - Powered by Vercel AI Gateway",
+    title: "TaTTTy Playground - Powered by Vercel AI Gateway",
     description:
-      "Nano Banana Pro: Google's newest AI image generation model. Create and edit stunning images with advanced AI.",
+      "TaTTTy: Google's newest AI image generation model. Create and edit stunning images with advanced AI.",
     creator: "@vercel",
     images: ["/og-image.jpg"],
   },

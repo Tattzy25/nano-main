@@ -42,9 +42,9 @@ export function HowItWorksModal({ open, onOpenChange }: HowItWorksModalProps) {
           {/* </CHANGE> */}
 
           <div>
-            <h3 className="text-lg font-semibold text-white mb-2">About Nano Banana Pro</h3>
+            <h3 className="text-lg font-semibold text-white mb-2">About TaTTTy</h3>
             <p className="leading-relaxed">
-              Nano Banana Pro is Google's newest and most advanced AI image generation model. Built on cutting-edge
+              TaTTTy is Google's newest and most advanced AI image generation model. Built on cutting-edge
               diffusion technology, it delivers exceptional quality, speed, and creative control for both text-to-image
               generation and intelligent image editing. All generations are processed through the{" "}
               <a
@@ -62,7 +62,7 @@ export function HowItWorksModal({ open, onOpenChange }: HowItWorksModalProps) {
           <div>
             <h3 className="text-lg font-semibold text-white mb-2">Text-to-Image Generation</h3>
             <p className="leading-relaxed">
-              Simply describe what you want to create in the prompt box and click Run. Nano Banana Pro will generate
+              Simply describe what you want to create in the prompt box and click Run. TaTTTy will generate
               high-quality, photorealistic images from your text descriptions in seconds.
             </p>
           </div>

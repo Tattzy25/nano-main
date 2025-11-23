@@ -1081,7 +1081,7 @@ function HowItWorksModal({ open, onOpenChange }) {
                             children: [
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$3_$40$opentelemetry$2b$_3a23a8f646cf08a50a02cbb7ec41fbf4$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                     className: "text-lg font-semibold text-white mb-2",
-                                    children: "About Nano Banana Pro"
+                                    children: "About TaTTTy"
                                 }, void 0, false, {
                                     fileName: "[project]/Downloads/nano-main/nano-main/components/image-combiner/how-it-works-modal.tsx",
                                     lineNumber: 45,
@@ -1090,7 +1090,7 @@ function HowItWorksModal({ open, onOpenChange }) {
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$3_$40$opentelemetry$2b$_3a23a8f646cf08a50a02cbb7ec41fbf4$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                     className: "leading-relaxed",
                                     children: [
-                                        "Nano Banana Pro is Google's newest and most advanced AI image generation model. Built on cutting-edge diffusion technology, it delivers exceptional quality, speed, and creative control for both text-to-image generation and intelligent image editing. All generations are processed through the",
+                                        "TaTTTy is Google's newest and most advanced AI image generation model. Built on cutting-edge diffusion technology, it delivers exceptional quality, speed, and creative control for both text-to-image generation and intelligent image editing. All generations are processed through the",
                                         " ",
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$3_$40$opentelemetry$2b$_3a23a8f646cf08a50a02cbb7ec41fbf4$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                             href: "https://vercel.com/ai-gateway",
@@ -1128,7 +1128,7 @@ function HowItWorksModal({ open, onOpenChange }) {
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$3_$40$opentelemetry$2b$_3a23a8f646cf08a50a02cbb7ec41fbf4$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                     className: "leading-relaxed",
-                                    children: "Simply describe what you want to create in the prompt box and click Run. Nano Banana Pro will generate high-quality, photorealistic images from your text descriptions in seconds."
+                                    children: "Simply describe what you want to create in the prompt box and click Run. TaTTTy will generate high-quality, photorealistic images from your text descriptions in seconds."
                                 }, void 0, false, {
                                     fileName: "[project]/Downloads/nano-main/nano-main/components/image-combiner/how-it-works-modal.tsx",
                                     lineNumber: 64,
@@ -4253,9 +4253,9 @@ function ImageCombiner() {
                     __html: JSON.stringify({
                         "@context": "https://schema.org",
                         "@type": "WebApplication",
-                        name: "Nano Banana Pro",
-                        alternateName: "NB Pro",
-                        description: "Nano Banana Pro is a powerful AI image generation and editing tool powered by Google Gemini 2.5 Flash Image. Create, edit, and transform images with natural language prompts.",
+                        name: "TaTTTy",
+                        alternateName: "TaTTTy",
+                        description: "TaTTTy is a powerful AI image generation and editing tool powered by Google Gemini 2.5 Flash Image. Create, edit, and transform images with natural language prompts.",
                         url: "https://v0nanobananapro.vercel.app",
                         applicationCategory: "MultimediaApplication",
                         operatingSystem: "Web Browser",
@@ -4269,7 +4269,7 @@ function ImageCombiner() {
                             name: "v0",
                             url: "https://v0.app"
                         },
-                        keywords: "nano banana pro, nb pro, AI image generation, AI image editor, free AI image generator, text to image, Gemini image generation"
+                        keywords: "tattty, AI image generation, AI image editor, free AI image generator, text to image, Gemini image generation"
                     })
                 }
             }, void 0, false, {
@@ -4356,15 +4356,14 @@ function ImageCombiner() {
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$3_$40$opentelemetry$2b$_3a23a8f646cf08a50a02cbb7ec41fbf4$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                         className: "md:hidden",
-                                                        children: "Nano"
+                                                        children: "TaTTTy"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Downloads/nano-main/nano-main/components/image-combiner/index.tsx",
                                                         lineNumber: 680,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$3_$40$opentelemetry$2b$_3a23a8f646cf08a50a02cbb7ec41fbf4$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                        className: "md:hidden mt-0.5",
-                                                        children: "Banana Pro"
+                                                        className: "md:hidden mt-0.5"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Downloads/nano-main/nano-main/components/image-combiner/index.tsx",
                                                         lineNumber: 681,
@@ -4372,7 +4371,7 @@ function ImageCombiner() {
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f2e$pnpm$2f$next$40$16$2e$0$2e$3_$40$opentelemetry$2b$_3a23a8f646cf08a50a02cbb7ec41fbf4$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                                         className: "hidden md:block",
-                                                        children: "Nano Banana Pro"
+                                                        children: "TaTTTy"
                                                     }, void 0, false, {
                                                         fileName: "[project]/Downloads/nano-main/nano-main/components/image-combiner/index.tsx",
                                                         lineNumber: 682,
